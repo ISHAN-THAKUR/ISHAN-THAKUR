@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ISHAN-THAKUR
 - 👀 I’m interested in open-source software development.
-- 🌱 I’m currently learning html, css, javascript
+- 🌱 I’m currently learning web development and object-oriented programming.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
